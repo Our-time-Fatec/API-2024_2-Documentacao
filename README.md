@@ -36,23 +36,22 @@ Previsão de entrega das Sprints e relatótios:
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliceujunior/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AliceuJunior)            | Aliceu Donizete F. Junior    | Product Owner |
 |           [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreluke)               | André Lucas de A. Sales      | Dev Team      |
 |             [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-santana-592621263/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/diogosfc)              | Diogo Santana F. Carneiro    | Dev Team      |
-|         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-candido-70b199298) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/larissaxyz)           | Larissa Emanuelle Barbosa Candido        | Dev Team      |
-|      [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasRbnc)              | Lucas Roberto M. Nascimento  | Scrum Master     |
+|         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/larissa-candido-70b199298](https://www.linkedin.com/in/lucascostadwn/)) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasdwn)           | Lucas Ferreira da Costa        | Scrum Master      |
+|      [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasRbnc)              | Lucas Roberto M. Nascimento  | Dev Team     |
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-4404b6119) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MuriloGGSilva)           | Murilo Gomes da Silva        | Dev Team      |
-|         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-sergio-faria-santo-76284433/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheussanto2)           |Matheus Sergio Faria Santo        | Dev Team      |
 
 
 # Prioridades 
 
-![Prioridades API](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/6c832b93-225c-4450-b44d-628966fc6c51)
+![Prioridades API](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/assets/125413068/6c832b93-225c-4450-b44d-628966fc6c51)
 
 # Planejamento das Sprints
 
-![a2523744-b915-4286-a8cc-9915c2f67dc3](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/e275405c-39e1-4b2c-843b-d71cb087db01)
+![a2523744-b915-4286-a8cc-9915c2f67dc3](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/assets/125413068/e275405c-39e1-4b2c-843b-d71cb087db01)
 
 # User Stories
 
-![Green Pink Blobs Handwritten Coach Tips List Instagram Post](https://github.com/Our-time-Fatec/API-2024_1-Documentacao/assets/125413068/bcc8d87a-b410-4c2a-9b3e-991a5526e124)
+![Green Pink Blobs Handwritten Coach Tips List Instagram Post](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/assets/125413068/bcc8d87a-b410-4c2a-9b3e-991a5526e124)
 
 ## Tecnologias
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>

@@ -43,7 +43,7 @@ Previsão de entrega das Sprints e relatótios:
 
 # Prioridades 
 
-![Prioridades API](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/assets/125413068/6c832b93-225c-4450-b44d-628966fc6c51)
+[![Backlog](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/main/API%20DSM%204%20Semestre.png)]
 
 # Planejamento das Sprints
 

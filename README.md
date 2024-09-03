@@ -43,24 +43,13 @@ Previsão de entrega das Sprints e relatótios:
 
 # Prioridades 
 
-[![Backlog](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/main/API%20DSM%204%20Semestre.png)]
-
-# Planejamento das Sprints
-
-![a2523744-b915-4286-a8cc-9915c2f67dc3](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/assets/125413068/e275405c-39e1-4b2c-843b-d71cb087db01)
-
-# User Stories
-
-![Green Pink Blobs Handwritten Coach Tips List Instagram Post](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/assets/125413068/bcc8d87a-b410-4c2a-9b3e-991a5526e124)
+![Backlog](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/main/API%20DSM%204%20Semestre.png)
 
 ## Tecnologias
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 <a href="https://react.dev/"><img src="https://img.shields.io/badge/React_Native-CED4DA?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
-<a href="https://jestjs.io/pt-BR/"><img src="https://img.shields.io/badge/Jest-CED4DA?style=for-the-badge&logo=Jest&logoColor=white" alt="Jest"/></a>
 <a href=""><img src="https://img.shields.io/badge/TypeScript-CED4DA?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></a>
 <a href="https://trello.com/pt-BR"><img src="https://img.shields.io/badge/Trello-CED4DA?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" /></a>
-<img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
-<a href="https://www.w3.org/standards/webdesign/htmlcss"><img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /></a>
 <a href="https://github.com/Our-time-Fatec"><img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /></a>
 <a href="https://www.microsoft.com/pt-br/microsoft-teams/log-in"><img src="https://img.shields.io/badge/Microsoft_Teams-CED4DA?style=for-the-badge&logo=microsoft-teams&logoColor=white" alt="Teams" /></a>

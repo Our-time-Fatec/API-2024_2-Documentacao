@@ -3,6 +3,7 @@
 <span id="topo">
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
+    <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#objetivo">Objetivo da sprint</a>  |  
     <a href="#entregas">Entregas</a> | 
      <a href="#modelagem">Modelagem de dados</a> | 

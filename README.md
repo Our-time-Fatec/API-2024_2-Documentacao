@@ -5,6 +5,7 @@
     <a href="#sobre">Sobre</a>  |  
     <a href="#objetivo">Objetivo da sprint</a>  |  
     <a href="#entregas">Entregas</a> | 
+     <a href="#modelagem">Modelagem de dados</a> | 
     <a href="#burndown">Burndown</a> 
 </p>
    
@@ -123,6 +124,14 @@ Nosso foco durante essa sprint foi entregar o usuário adicionar o consumo do al
 </div>
 
 <br>
+<span id="modelagem">
+
+### 🗂 Modelo de Dados
+<div align="center">
+<img alt="Modelagem de dados" src="./imagens/Modelo de Dados.jpeg" height="700">
+</div>
+<br>
+
 <span id="burndown">
 
 ### 📉 Burndown:

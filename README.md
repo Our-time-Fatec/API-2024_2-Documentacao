@@ -41,9 +41,13 @@ Previsão de entrega das Sprints e relatótios:
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-4404b6119) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MuriloGGSilva)           | Murilo Gomes da Silva        | Dev Team      |
 
 
-# Prioridades 
+# Objetivos da Sprint
 
-![Backlog](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/main/API%20DSM%204%20Semestre.png)
+![Sprint Backlog](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/sprint-backlog-1.png)
+
+# Modelo de Dados
+
+![Modelo de Dados](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/Modelo%20de%20Dados.jpeg)
 
 ## Tecnologias
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>

@@ -42,7 +42,7 @@ Os requisitos abrangidos por essa sprint são:
 
 <div align="center">
 
-<!-- <img alt="sprint-backlog-1" src="" width="800"> -->
+ <img alt="sprint-backlog-1" src="./imagens/sprint-backlog-1.png" width="800"> 
 
 <br></br>
 Nosso foco durante essa sprint foi entregar o usuário adicionar o consumo do alimento e checagem de alimentos num geral. As dietas são apenas mostradas para dar uma prévia de como vamos prosseguir na 2 sprint.

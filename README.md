@@ -85,13 +85,6 @@ Nosso foco durante essa sprint foi entregar o usuário adicionar o consumo do al
 
 <br>
 
-#### FAQ sobre as dietas
-<div align="center">
-<img alt="FAQ" src="./imagens/Telas aplicação/FAQs.jpeg" height="500">
-</div>
-
-<br>
-
 #### Listagem de alimentos
 <div align="center">
 <img alt="Listagem alimentos" src="./imagens/Telas aplicação/Listagem alimentos.jpeg" height="500">
@@ -113,6 +106,13 @@ Nosso foco durante essa sprint foi entregar o usuário adicionar o consumo do al
 <img alt="Listagem de alimentos consumidos" src="./imagens/Telas aplicação/Listagem alimentos consumidos.jpeg" height="500">
 <img alt="Cadastro de alimentos consumidos" src="./imagens/Telas aplicação/Modal consumir.jpeg" height="500">
 <img alt="Detalhes do alimento consumido" src="./imagens/Telas aplicação/Modal Alimento consumido.jpeg" height="500">
+</div>
+
+<br>
+
+#### FAQ sobre as dietas
+<div align="center">
+<img alt="FAQ" src="./imagens/Telas aplicação/FAQs.jpeg" height="500">
 </div>
 
 <br>

@@ -107,19 +107,19 @@ Nosso foco durante essa sprint foi entregar o usuário adicionar o consumo do al
 
 <br>
 
-#### Controle e listagem de dietas (Exemplos de aplicações para a sprit 2)
-<div align="center">
-<img alt="Listagem de dietas" src="./imagens/Telas aplicação/Listagem de dieta.jpeg" height="500">
-<img alt="Detalhes da dietas" src="./imagens/Telas aplicação/Modal de dieta.jpeg" height="500">
-</div>
-
-<br>
-
 #### Controle e listagem de alimentos consumidos
 <div align="center">
 <img alt="Listagem de alimentos consumidos" src="./imagens/Telas aplicação/Listagem alimentos consumidos.jpeg" height="500">
 <img alt="Cadastro de alimentos consumidos" src="./imagens/Telas aplicação/Modal consumir.jpeg" height="500">
 <img alt="Detalhes do alimento consumido" src="./imagens/Telas aplicação/Modal Alimento consumido.jpeg" height="500">
+</div>
+
+<br>
+
+#### Controle e listagem de dietas (Exemplos de aplicações para a sprint 2)
+<div align="center">
+<img alt="Listagem de dietas" src="./imagens/Telas aplicação/Listagem de dieta.jpeg" height="500">
+<img alt="Detalhes da dietas" src="./imagens/Telas aplicação/Modal de dieta.jpeg" height="500">
 </div>
 
 <br>

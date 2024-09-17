@@ -4,8 +4,9 @@
 <p align="center">
     <a href="#sobre">Sobre</a>  |  
 <!--    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  | --> 
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a> | 
+    <a href="#objetivo">Objetivo da sprint</a>  |  
+    <a href="#entregas">Entregas</a> | 
+    <a href="#burndown">Burndown</a> 
 </p>
    
 <span id="sobre">

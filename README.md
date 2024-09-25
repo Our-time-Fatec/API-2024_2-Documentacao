@@ -24,7 +24,7 @@ Isso promoverá uma experiência melhor para o usuário, facilitando o acompanha
 Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 17/09/2024 | 🛠️ Em Progresso | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/README.md) |
+| 01 | 17/09/2024 | ✅ Concluida | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/README.md) |
 | 02 | 18/10/2024 | 🛠️ Em Progresso | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel2/README.md) |
 | 03 | 08/11/2024 | 🛠️ Em Progresso | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel3/README.md) |
 <span id="equipe">
@@ -47,7 +47,7 @@ Previsão de entrega das Sprints e relatótios:
 
 # Modelo de Dados
 
-![Modelo de Dados](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/Modelo%20de%20Dados.jpeg)
+![Modelo de Dados](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/main/diagramasprint1.jpg)
 
 ## Tecnologias
 <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>

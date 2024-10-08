@@ -1,4 +1,4 @@
-<h1 align="center">  Sprint 1   </h1>
+<h1 align="center">  Sprint 2   </h1>
 
 <span id="topo">
 <p align="center">
@@ -43,7 +43,7 @@ Previsão de entrega das Sprints e relatótios:
 
 # Objetivos da Sprint
 
-![Sprint Backlog](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/sprint-backlog-1.png)
+![Sprint Backlog](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/main/sprint-backlog-2.PNG)
 
 # Modelo de Dados
 

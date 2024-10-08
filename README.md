@@ -112,6 +112,16 @@ Nosso foco durante essa sprint foi entregar o usuário poder criar e gerenciar d
 
 <br>
 
+#### Controle e listagem de dietas 
+<div align="center">
+<img alt="Listagem de dietas" src="./imagens/Telas aplicação/Listagem de dieta.jpeg" height="500">
+<img alt="Detalhes da dietas" src="./imagens/Telas aplicação/Modal de dieta.jpeg" height="500">
+<img alt="Cadastro de dieta" src="./imagens/Telas aplicação/Cadastro de dieta.png" height="500">
+<img alt="Atualizar dieta já existente" src="./imagens/Telas aplicação/Atualizar dieta já existente.png" height="500">
+<img alt="Detalhes da refeição" src="./imagens/Telas aplicação/Modal refeição.png" height="500">
+</div>
+<br>
+
 #### Controle e listagem de alimentos consumidos
 <div align="center">
 <img alt="Listagem de alimentos consumidos" src="./imagens/Telas aplicação/Listagem alimentos consumidos.jpeg" height="500">
@@ -128,11 +138,7 @@ Nosso foco durante essa sprint foi entregar o usuário poder criar e gerenciar d
 
 <br>
 
-#### Controle e listagem de dietas (Exemplos de aplicações para a sprint 2)
-<div align="center">
-<img alt="Listagem de dietas" src="./imagens/Telas aplicação/Listagem de dieta.jpeg" height="500">
-<img alt="Detalhes da dietas" src="./imagens/Telas aplicação/Modal de dieta.jpeg" height="500">
-</div>
+
 
 <br>
 

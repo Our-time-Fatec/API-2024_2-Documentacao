@@ -26,7 +26,7 @@ Previsão de entrega das Sprints e relatótios:
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 17/09/2024 | ✅ Concluida | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel1/README.md) |
 | 02 | 18/10/2024 | ✅ Concluida | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel2/README.md) |
-| 03 | 08/11/2024 | 🛠️ Em Progresso | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel3/README.md) |
+| 03 | 08/11/2024 | ✅ Concluida | [ver relatório](https://github.com/Our-time-Fatec/API-2024_2-Documentacao/blob/rel3/README.md) |
 <span id="equipe">
 
 ## :busts_in_silhouette: Equipe
